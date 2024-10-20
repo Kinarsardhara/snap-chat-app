@@ -16,6 +16,6 @@ Snappy is a real-time chat application designed to provide a seamless communicat
 - **Socket.io**
 - **Node.js**
 
-- ![Snappy Chat Application](https://res.cloudinary.com/dnhf2dbis/image/upload/v1729425631/Screenshot_2024-10-21_172906_xzaidn.png)
-- ![Snappy Chat Application](https://res.cloudinary.com/dnhf2dbis/image/upload/v1729425632/Screenshot_2024-10-21_172843_js1ecw.png)
+![Snappy Chat Application](https://res.cloudinary.com/dnhf2dbis/image/upload/v1729425631/Screenshot_2024-10-21_172906_xzaidn.png)
+![Snappy Chat Application](https://res.cloudinary.com/dnhf2dbis/image/upload/v1729425632/Screenshot_2024-10-21_172843_js1ecw.png)
 
