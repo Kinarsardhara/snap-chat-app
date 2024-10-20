@@ -5,6 +5,9 @@
 ## Overview
 Snappy is a real-time chat application designed to provide a seamless communication experience. Built with React.js for the frontend, Bootstrap for styling, Socket.io for real-time messaging, and Node.js for the backend, Snappy ensures fast and reliable message delivery.
 
+## Live Demo
+- [Travosy Application](https://sktravosy.vercel.app/)
+
 ## Demo Login Credentials
 - **Username:** kinarsardhara
 - **Password:** 123456789
